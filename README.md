@@ -89,4 +89,4 @@ const AI_BASE_URL = 'http://localhost:8081'
 
 ## 详细文档
 
-- [项目介绍文档](docs/项目介绍文档.md)
+- [项目介绍文档](docs/项目介绍文档.docx)
