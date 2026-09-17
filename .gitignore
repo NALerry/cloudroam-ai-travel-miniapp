@@ -1,0 +1,14 @@
+node_modules/
+target/
+unpackage/
+dist/
+vector_db/
+.venv/
+venv/
+__pycache__/
+.env
+*.jar
+*.war
+*.class
+*.log
+.idea/

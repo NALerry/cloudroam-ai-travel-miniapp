@@ -1,0 +1,361 @@
+{
+  "pages": [
+    {
+      "path": "pages/travel/travel",
+      "style": {
+        "navigationBarTitleText": "旅行首页",
+        "navigationBarBackgroundColor": "#b8d4ff"
+      }
+    },
+    {
+      "path": "pages/map/map", 
+      "style": {
+        "navigationBarTitleText": "地图探索",
+        "navigationBarBackgroundColor": "#b8d4ff"
+      }
+    },
+    {
+      "path": "pages/post/post",
+      "style": {
+        "navigationBarTitleText": "投稿分享",
+        "navigationBarBackgroundColor": "#b8d4ff"
+      }
+    },
+    {
+      "path": "pages/weather/weather",
+      "style": {
+        "navigationBarTitleText": "天气信息",
+        "navigationBarBackgroundColor": "#b8d4ff"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "个人中心",
+        "navigationBarBackgroundColor": "#b8d4ff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false,
+        "backgroundColor": "#f8f8f8"
+      }
+    },
+    // 旅行搜索页面
+    {
+      "path": "pages/search/search",
+      "style": {
+        "navigationBarTitleText": "搜索",
+        "navigationBarBackgroundColor": "#b8d4ff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false
+      }
+    },
+    // 天气搜索页面
+    {
+      "path": "pages/search/search-weather",
+      "style": {
+        "navigationBarTitleText": "搜索城市",
+        "navigationBarBackgroundColor": "#b8d4ff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false
+      }
+    },
+    // 地图搜索页面
+    {
+      "path": "pages/search/map-search",
+      "style": {
+        "navigationBarTitleText": "搜索地点",
+        "navigationBarBackgroundColor": "#b8d4ff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false
+      }
+    },
+    // 搜索结果页面
+    {
+      "path": "pages/search/result",
+      "style": {
+        "navigationBarTitleText": "搜索结果",
+        "navigationBarBackgroundColor": "#b8d4ff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false
+      }
+    },
+    // 详情页面（搜索结果跳转用）
+    {
+      "path": "pages/detail/detail",
+      "style": {
+        "navigationBarTitleText": "详情",
+        "navigationBarBackgroundColor": "#b8d4ff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": false
+      }
+    },
+    // 帖子详情页面（评论区）
+    {
+      "path": "pages/post-detail/post-detail",
+      "style": {
+        "navigationBarTitleText": "评论区",
+        "navigationBarBackgroundColor": "#b8d4ff"
+      }
+    },
+    {
+    	"path" : "pages/my-posts/my-posts",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/my-collections/my-collections",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/my-likes/my-likes",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/my-history/my-history",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/my-routes/my-routes",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/travel-notes/travel-notes",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/my-bookmarks/my-bookmarks",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/note-edit/note-edit",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/route-edit/route-edit",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/settings/settings",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/login/login",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/profile-edit/profile-edit",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/privacy/privacy",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/about/about",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },{
+      "path": "pages/gas-station/gas-station",
+      "style": {
+        "navigationBarTitleText": "加油站",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/hotel/hotel",
+      "style": {
+        "navigationBarTitleText": "酒店",
+        "enablePullDownRefresh": true
+      }
+    },
+	
+	{
+	    "path": "pages/shopping/shopping",
+	    "style": {
+	    "navigationBarTitleText": "购物",
+	    "enablePullDownRefresh": true
+	  }
+	},
+	{
+	    "path": "pages/ticket/ticket",
+	    "style": {
+	    "navigationBarTitleText": "景点门票",
+	    "enablePullDownRefresh": true
+	   }
+	},
+	 {
+	      "path": "pages/bus/bus",
+	      "style": {
+	        "navigationBarTitleText": "公交地铁",
+	        "enablePullDownRefresh": true
+	      }
+	    },
+	    {
+	      "path": "pages/taxi/taxi",
+	      "style": {
+	        "navigationBarTitleText": "打车",
+	        "enablePullDownRefresh": true
+	      }
+	    },
+		{
+		  "path": "pages/bike/bike",
+		  "style": {
+		    "navigationBarTitleText": "自行车",
+		    "enablePullDownRefresh": true
+		  }
+		},
+		{
+		  "path": "pages/realtime-bus/realtime-bus",
+		  "style": {
+		    "navigationBarTitleText": "实时公交",
+		    "enablePullDownRefresh": true
+		  }
+		},
+		{
+		  "path": "pages/route/route",
+		  "style": {
+		    "navigationBarTitleText": "路线",
+		    "enablePullDownRefresh": true
+		  }
+		},
+		{
+			"path" : "pages/transport/transport",
+			"style" : 
+			{
+				"navigationBarTitleText" : "出行"
+			}
+		},
+		{
+			"path" : "pages/accommodation/accommodation",
+			"style" : 
+			{
+				"navigationBarTitleText" : "住宿"
+			}
+		},
+		{
+		  "path": "pages/food/food",
+		  "style": {
+		    "navigationBarTitleText": "美食",
+		    "enablePullDownRefresh": true
+		  }
+		},
+		{
+			"path" : "pages/custom/custom",
+			"style" : 
+			{
+				"navigationBarTitleText" : "习俗"
+			}
+		},
+		{
+		    "path": "pages/common/webview",
+		    "style": {
+		        "navigationBarTitleText": "地铁线路图"
+		    }
+		},
+		{
+			"path" : "pages/route-detail/route-detail",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/ai-chat/ai-chat",
+			"style" : 
+			{
+				"navigationBarTitleText" : "AI旅行助手"
+			}
+		},
+		{
+			"path": "pages/homestay/homestay",
+			"style": {
+				"navigationBarTitleText": "民宿",
+				 "enablePullDownRefresh": true
+			}
+		}
+		
+  ],
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#b8d4ff",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/travel/travel",
+        "iconPath": "/static/icons/general/travel.png",
+        "selectedIconPath": "/static/icons/general/travel1.png",
+        "text": "旅行"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "iconPath": "/static/icons/general/map.png", 
+        "selectedIconPath": "/static/icons/general/map1.png",
+        "text": "地图"
+      },
+      {
+        "pagePath": "pages/post/post",
+        "iconPath": "/static/icons/general/po.png",
+        "selectedIconPath": "/static/icons/general/po1.png",
+        "text": "投稿"
+      },
+      {
+        "pagePath": "pages/weather/weather",
+        "iconPath": "/static/icons/general/weather.png",
+        "selectedIconPath": "/static/icons/general/weather1.png", 
+        "text": "天气"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "iconPath": "/static/icons/general/my.png",
+        "selectedIconPath": "/static/icons/general/my1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  }
+}
