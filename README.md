@@ -64,6 +64,7 @@ python main.py
 ```javascript
 const BASE_URL = 'http://localhost:8080'
 const AI_BASE_URL = 'http://localhost:8081'
+```
 
 ## 目录结构
 
